@@ -1,0 +1,356 @@
+Station_Name,Train,count
+Euclid Ave,[{'NAME': 'A-C-S'}],1
+Coney Island - Stillwell Av,[{'NAME': 'D-F-N-Q'}],1
+Spring St,"[{'NAME': '4-6-6 Express'}, {'NAME': 'A-C-E'}]",2
+116th St,"[{'NAME': '4-6-6 Express'}, {'NAME': 'A-B-C'}, {'NAME': '2-3'}]",3
+103rd St,"[{'NAME': '4-6-6 Express'}, {'NAME': '1'}, {'NAME': 'A-B-C'}]",3
+Bleecker St,[{'NAME': '4-6-6 Express'}],1
+110th St,[{'NAME': '4-6-6 Express'}],1
+28th St,"[{'NAME': '4-6-6 Express'}, {'NAME': '1-2'}, {'NAME': 'N-Q-R-W'}]",3
+68th St - Hunter College,[{'NAME': '4-6-6 Express'}],1
+23rd St,"[{'NAME': '4-6-6 Express'}, {'NAME': '1-2'}, {'NAME': 'N-Q-R-W'}, {'NAME': 'A-C-E'}, {'NAME': 'F-M'}]",5
+51st St,[{'NAME': '4-6-6 Express'}],1
+77th St,"[{'NAME': '4-6-6 Express'}, {'NAME': 'R'}]",2
+96th St,"[{'NAME': '4-6-6 Express'}, {'NAME': 'A-B-C'}, {'NAME': 'Q'}, {'NAME': '1-2-3'}]",4
+33rd St,"[{'NAME': '4-6-6 Express'}, {'NAME': '7'}]",2
+Canal St,"[{'NAME': '4-6-6 Express'}, {'NAME': '1-2'}, {'NAME': 'J-Z'}, {'NAME': 'R-W'}, {'NAME': 'N-Q'}]",5
+Astor Pl,[{'NAME': '4-6-6 Express'}],1
+Franklin St,[{'NAME': '1-2'}],1
+18th St,[{'NAME': '1-2'}],1
+Christopher St - Sheridan Sq,[{'NAME': '1-2'}],1
+79th St,"[{'NAME': '1-2'}, {'NAME': 'D'}]",2
+Houston St,[{'NAME': '1-2'}],1
+59th St - Columbus Circle,"[{'NAME': '1-2'}, {'NAME': 'A-B-C-D'}]",2
+66th St - Lincoln Ctr,[{'NAME': '1-2'}],1
+86th St,"[{'NAME': '1-2'}, {'NAME': 'A-B-C'}, {'NAME': '4-5-6-6 Express'}, {'NAME': 'Q'}, {'NAME': 'R'}]",5
+50th St,"[{'NAME': '1-2'}, {'NAME': 'D'}, {'NAME': 'A-C-E'}]",3
+Eastern Pkwy - Bklyn Museum,[{'NAME': '2-3-4'}],1
+Grand Army Plaza,[{'NAME': '2-3-4'}],1
+Bergen St,"[{'NAME': '2-3-4'}, {'NAME': 'F-G'}]",2
+Nostrand Ave,"[{'NAME': '3-4'}, {'NAME': 'A-C'}]",2
+Sutter Ave - Rutland Road,[{'NAME': '3-4'}],1
+Saratoga Ave,[{'NAME': '3-4'}],1
+Rockaway Ave,"[{'NAME': '3-4'}, {'NAME': 'A-C'}]",2
+Junius St,[{'NAME': '3-4'}],1
+New Lots Ave,"[{'NAME': '3-4'}, {'NAME': 'L'}]",2
+Kingston Ave,[{'NAME': '3-4'}],1
+Crown Hts - Utica Ave,[{'NAME': '3-4'}],1
+Van Siclen Ave,"[{'NAME': '3-4'}, {'NAME': 'A-C'}, {'NAME': 'J-Z'}]",3
+Pennsylvania Ave,[{'NAME': '3-4'}],1
+Cortlandt St,"[{'NAME': '1'}, {'NAME': 'R-W'}]",2
+Rector St,"[{'NAME': '1'}, {'NAME': 'R-W'}]",2
+South Ferry,[{'NAME': '1'}],1
+125th St,"[{'NAME': '1'}, {'NAME': '4-5-6-6 Express'}, {'NAME': '2-3'}, {'NAME': 'A-B-C-D'}]",4
+Dyckman St,"[{'NAME': '1'}, {'NAME': 'A'}]",2
+Van Cortlandt Park - 242nd St,[{'NAME': '1'}],1
+207th St,[{'NAME': '1'}],1
+215th St,[{'NAME': '1'}],1
+231st St,[{'NAME': '1'}],1
+Marble Hill - 225th St,[{'NAME': '1'}],1
+191st St,[{'NAME': '1'}],1
+181st St,"[{'NAME': '1'}, {'NAME': 'A'}]",2
+168th St,"[{'NAME': '1'}, {'NAME': 'A-C'}]",2
+137th St - City College,[{'NAME': '1'}],1
+116th St - Columbia University,[{'NAME': '1'}],1
+Cathedral Pkwy (110th St),"[{'NAME': '1'}, {'NAME': 'A-B-C'}]",2
+157th St,[{'NAME': '1'}],1
+145th St,"[{'NAME': '1'}, {'NAME': '3'}, {'NAME': 'A-B-C-D'}]",3
+238th St,[{'NAME': '1'}],1
+135th St,"[{'NAME': 'A-B-C'}, {'NAME': '2-3'}]",2
+81st St,[{'NAME': 'A-B-C'}],1
+72nd St,"[{'NAME': 'A-B-C'}, {'NAME': 'Q'}, {'NAME': '1-2-3'}]",3
+Lafayette Ave,[{'NAME': 'A-C'}],1
+High St,[{'NAME': 'A-C'}],1
+Clinton - Washington Aves,"[{'NAME': 'A-C'}, {'NAME': 'G'}]",2
+Franklin Ave,"[{'NAME': 'A-C'}, {'NAME': '2-3-4-5'}]",2
+163rd St - Amsterdam Av,[{'NAME': 'A-C'}],1
+155th St,"[{'NAME': 'A-C'}, {'NAME': 'B-D'}]",2
+Broadway Junction,"[{'NAME': 'A-C'}, {'NAME': 'J-Z'}, {'NAME': 'L'}]",3
+Liberty Ave,[{'NAME': 'A-C'}],1
+Chambers St,"[{'NAME': 'A-C'}, {'NAME': 'J-Z'}, {'NAME': '1-2-3'}]",3
+Fulton St,"[{'NAME': 'A-C'}, {'NAME': 'J-Z'}, {'NAME': 'G'}, {'NAME': '4-5'}, {'NAME': '2-3'}]",5
+Utica Ave,[{'NAME': 'A-C'}],1
+Shepherd Ave,[{'NAME': 'A-C'}],1
+Ralph Ave,[{'NAME': 'A-C'}],1
+Kingston - Throop Aves,[{'NAME': 'A-C'}],1
+Queens Plz,[{'NAME': 'E-M-R'}],1
+Steinway St,[{'NAME': 'E-M-R'}],1
+Northern Blvd,[{'NAME': 'E-M-R'}],1
+46th St,"[{'NAME': 'E-M-R'}, {'NAME': '7'}]",2
+Woodhaven Blvd - Queens Mall,[{'NAME': 'E-M-R'}],1
+63rd Dr - Rego Park,[{'NAME': 'E-M-R'}],1
+Grand Ave - Newtown,[{'NAME': 'E-M-R'}],1
+67th Ave,[{'NAME': 'E-M-R'}],1
+Elmhurst Ave,[{'NAME': 'E-M-R'}],1
+36th St,"[{'NAME': 'E-M-R'}, {'NAME': 'D-N-R'}]",2
+65th St,[{'NAME': 'E-M-R'}],1
+Myrtle Ave,[{'NAME': 'J-M-Z'}],1
+Marcy Ave,[{'NAME': 'J-M-Z'}],1
+Delancey St - Essex St,"[{'NAME': 'J-M-Z'}, {'NAME': 'F'}]",2
+Bowery,[{'NAME': 'J-Z'}],1
+Broad St,[{'NAME': 'J-Z'}],1
+Gates Ave,[{'NAME': 'J-Z'}],1
+75th St - Eldert Ln,[{'NAME': 'J-Z'}],1
+Crescent St,[{'NAME': 'J-Z'}],1
+121st St,[{'NAME': 'J-Z'}],1
+Woodhaven Blvd,[{'NAME': 'J-Z'}],1
+Chauncey St,[{'NAME': 'J-Z'}],1
+104th-102nd Sts,[{'NAME': 'J-Z'}],1
+Norwood Ave,[{'NAME': 'J-Z'}],1
+DeKalb Ave,"[{'NAME': 'B-D-N-Q-R'}, {'NAME': 'L'}]",2
+80th St,[{'NAME': 'A-S'}],1
+88th St,[{'NAME': 'A-S'}],1
+Ozone Park - Lefferts Blvd,[{'NAME': 'A-S'}],1
+Grant Ave,[{'NAME': 'A-S'}],1
+Rockaway Park - Beach 116 St,[{'NAME': 'A-S'}],1
+Beach 98th St,[{'NAME': 'A-S'}],1
+Rockaway Blvd,[{'NAME': 'A-S'}],1
+Broad Channel,[{'NAME': 'A-S'}],1
+104th St,[{'NAME': 'A-S'}],1
+111th St,"[{'NAME': 'A-S'}, {'NAME': 'J'}, {'NAME': '7'}]",3
+Beach 90th St,[{'NAME': 'A-S'}],1
+Beach 105th St,[{'NAME': 'A-S'}],1
+President St,[{'NAME': '2-5'}],1
+3rd Ave - 149th St,[{'NAME': '2-5'}],1
+149th St - Grand Concourse,"[{'NAME': '2-5'}, {'NAME': '4'}]",2
+E 180th St,[{'NAME': '2-5'}],1
+Burke Ave,[{'NAME': '2-5'}],1
+219th St,[{'NAME': '2-5'}],1
+West Farms Sq - E Tremont Av,[{'NAME': '2-5'}],1
+Allerton Ave,[{'NAME': '2-5'}],1
+174th St,[{'NAME': '2-5'}],1
+Prospect Ave,"[{'NAME': '2-5'}, {'NAME': 'D-N-R'}]",2
+Jackson Ave,[{'NAME': '2-5'}],1
+225th St,[{'NAME': '2-5'}],1
+Sterling St,[{'NAME': '2-5'}],1
+Brooklyn College - Flatbush Ave,[{'NAME': '2-5'}],1
+Newkirk Ave,"[{'NAME': '2-5'}, {'NAME': 'B-Q'}]",2
+Church Ave,"[{'NAME': '2-5'}, {'NAME': 'F-G'}, {'NAME': 'B-Q'}]",3
+Beverly Rd,"[{'NAME': '2-5'}, {'NAME': 'Q'}]",2
+233rd St,[{'NAME': '2-5'}],1
+Winthrop St,[{'NAME': '2-5'}],1
+Bronx Park East,[{'NAME': '2-5'}],1
+Simpson St,[{'NAME': '2-5'}],1
+Nereid Ave (238 St),[{'NAME': '2-5'}],1
+Gun Hill Rd,"[{'NAME': '2-5'}, {'NAME': '5'}]",2
+Pelham Pkwy,"[{'NAME': '2-5'}, {'NAME': '5'}]",2
+Intervale Ave,[{'NAME': '2-5'}],1
+Freeman St,[{'NAME': '2-5'}],1
+Grand St,"[{'NAME': 'B-D'}, {'NAME': 'L'}]",2
+161st St - Yankee Stadium,"[{'NAME': 'B-D'}, {'NAME': '4'}]",2
+Bedford Park Blvd,[{'NAME': 'B-D'}],1
+Fordham Rd,"[{'NAME': 'B-D'}, {'NAME': '4'}]",2
+170th St,"[{'NAME': 'B-D'}, {'NAME': '4'}]",2
+Tremont Ave,[{'NAME': 'B-D'}],1
+Kingsbridge Rd,"[{'NAME': 'B-D'}, {'NAME': '4'}]",2
+167th St,"[{'NAME': 'B-D'}, {'NAME': '4'}]",2
+174th-175th Sts,[{'NAME': 'B-D'}],1
+182nd-183rd Sts,[{'NAME': 'B-D'}],1
+34th St - Hudson Yards,[{'NAME': '7-7 Express'}],1
+5th Ave - Bryant Pk,[{'NAME': '7-7 Express'}],1
+Grand Central - 42nd St,"[{'NAME': '7-7 Express'}, {'NAME': '4-5-6-6 Express'}, {'NAME': 'S'}]",3
+Times Sq - 42nd St,"[{'NAME': '7-7 Express'}, {'NAME': 'N-Q-R-W'}, {'NAME': 'S'}, {'NAME': '1-2-3'}]",4
+Vernon Blvd - Jackson Ave,[{'NAME': '7-7 Express'}],1
+Hunters Point Ave,[{'NAME': '7-7 Express'}],1
+Court Sq,[{'NAME': '7-7 Express'}],1
+Woodside - 61st St,[{'NAME': '7-7 Express'}],1
+Flushing - Main St,[{'NAME': '7-7 Express'}],1
+Junction Blvd,[{'NAME': '7-7 Express'}],1
+Mets - Willets Point,[{'NAME': '7-7 Express'}],1
+Parkchester,[{'NAME': '6-6 Express'}],1
+Westchester Sq - E Tremont Ave,[{'NAME': '6-6 Express'}],1
+Pelham Bay Park,[{'NAME': '6-6 Express'}],1
+Middletown Rd,[{'NAME': '6-6 Express'}],1
+Hunts Point Ave,[{'NAME': '6-6 Express'}],1
+Zerega Ave,[{'NAME': '6-6 Express'}],1
+Castle Hill Ave,[{'NAME': '6-6 Express'}],1
+3rd Ave - 138th St,[{'NAME': '6-6 Express'}],1
+Buhre Ave,[{'NAME': '6-6 Express'}],1
+Union Sq - 14th St,"[{'NAME': '4-5-6-6 Express'}, {'NAME': 'L'}, {'NAME': 'N-Q-R-W'}]",3
+Lexington Ave - 59th St,"[{'NAME': '4-5-6-6 Express'}, {'NAME': 'N-R-W'}]",2
+Brooklyn Bridge - City Hall,[{'NAME': '4-5-6-6 Express'}],1
+25th St,[{'NAME': 'D-N-R'}],1
+4th Av - 9th St,"[{'NAME': 'D-N-R'}, {'NAME': 'F-G'}]",2
+Union St,[{'NAME': 'D-N-R'}],1
+Nevins St,[{'NAME': '2-3-4-5'}],1
+Atlantic Av - Barclay's Center,"[{'NAME': '2-3-4-5'}, {'NAME': 'B-Q'}, {'NAME': 'D-N-Q-R'}]",3
+Woodlawn,[{'NAME': '4'}],1
+183rd St,[{'NAME': '4'}],1
+Mosholu Pkwy,[{'NAME': '4'}],1
+Mt Eden Ave,[{'NAME': '4'}],1
+Bedford Park Blvd - Lehman College,[{'NAME': '4'}],1
+Burnside Ave,[{'NAME': '4'}],1
+176th St,[{'NAME': '4'}],1
+Brook Ave,[{'NAME': '6'}],1
+E 143rd St - St Mary's St,[{'NAME': '6'}],1
+Cypress Ave,[{'NAME': '6'}],1
+Longwood Ave,[{'NAME': '6'}],1
+Elder Ave,[{'NAME': '6'}],1
+St Lawrence Ave,[{'NAME': '6'}],1
+Whitlock Ave,[{'NAME': '6'}],1
+Morrison Av - Soundview,[{'NAME': '6'}],1
+E 149th St,[{'NAME': '6'}],1
+190th St,[{'NAME': 'A'}],1
+Inwood - 207th St,[{'NAME': 'A'}],1
+Aqueduct - North Conduit Av,[{'NAME': 'A'}],1
+Howard Beach - JFK Airport,[{'NAME': 'A'}],1
+Beach 67th St,[{'NAME': 'A'}],1
+Beach 25th St,[{'NAME': 'A'}],1
+Beach 36th St,[{'NAME': 'A'}],1
+Beach 60th St,[{'NAME': 'A'}],1
+Beach 44th St,[{'NAME': 'A'}],1
+175th St,[{'NAME': 'A'}],1
+Aqueduct Racetrack,[{'NAME': 'A'}],1
+Far Rockaway - Mott Ave,[{'NAME': 'A'}],1
+Broadway - Lafayette St,[{'NAME': 'B-D-F-M'}],1
+Herald Sq - 34th St,"[{'NAME': 'B-D-F-M'}, {'NAME': 'N-Q-R-W'}]",2
+47th-50th Sts - Rockefeller Ctr,[{'NAME': 'B-D-F-M'}],1
+W 4th St - Washington Sq (Lower),[{'NAME': 'B-D-F-M'}],1
+42nd St - Bryant Pk,[{'NAME': 'B-D-F-M'}],1
+Prospect Park,[{'NAME': 'B-Q-S'}],1
+Ft Hamilton Pkwy,"[{'NAME': 'D'}, {'NAME': 'N'}, {'NAME': 'F-G'}]",3
+9th Ave,[{'NAME': 'D'}],1
+Bay 50th St,[{'NAME': 'D'}],1
+62nd St,[{'NAME': 'D'}],1
+18th Ave,"[{'NAME': 'D'}, {'NAME': 'F'}, {'NAME': 'N'}]",3
+20th Ave,"[{'NAME': 'D'}, {'NAME': 'N'}]",2
+71st St,[{'NAME': 'D'}],1
+Bay Pky,"[{'NAME': 'D'}, {'NAME': 'F'}, {'NAME': 'N'}]",3
+25th Ave,[{'NAME': 'D'}],1
+Norwood - 205th St,[{'NAME': 'D'}],1
+55th St,[{'NAME': 'D'}],1
+World Trade Center,[{'NAME': 'E'}],1
+Jamaica - Van Wyck,[{'NAME': 'E'}],1
+Briarwood - Van Wyck Blvd,[{'NAME': 'E-F'}],1
+75th Ave,[{'NAME': 'E-F'}],1
+Kew Gardens - Union Tpke,[{'NAME': 'E-F'}],1
+Jamaica Ctr - Parsons / Archer,[{'NAME': 'E-J-Z'}],1
+Sutphin Blvd - Archer Av,[{'NAME': 'E-J-Z'}],1
+Lexington Ave - 53rd St,[{'NAME': 'E-M'}],1
+5th Ave - 53rd St,[{'NAME': 'E-M'}],1
+Court Sq - 23rd St,[{'NAME': 'E-M'}],1
+York St,[{'NAME': 'F'}],1
+Lower East Side - 2nd Ave,[{'NAME': 'F'}],1
+East Broadway,[{'NAME': 'F'}],1
+Roosevelt Island - Main St,[{'NAME': 'F'}],1
+57th St,"[{'NAME': 'F'}, {'NAME': 'N-Q-R-W'}]",2
+21st St - Queensbridge,[{'NAME': 'F'}],1
+Ave I,[{'NAME': 'F'}],1
+Ave N,[{'NAME': 'F'}],1
+Ave P,[{'NAME': 'F'}],1
+Ave X,[{'NAME': 'F'}],1
+Neptune Ave,[{'NAME': 'F'}],1
+Kings Hwy,"[{'NAME': 'F'}, {'NAME': 'N'}, {'NAME': 'B-Q'}]",3
+Ave U,"[{'NAME': 'F'}, {'NAME': 'N'}, {'NAME': 'Q'}]",3
+Jamaica - 179th St,[{'NAME': 'F'}],1
+Sutphin Blvd,[{'NAME': 'F'}],1
+169th St,[{'NAME': 'F'}],1
+Parsons Blvd,[{'NAME': 'F'}],1
+Ditmas Ave,[{'NAME': 'F'}],1
+Flushing Ave,"[{'NAME': 'G'}, {'NAME': 'J-M'}]",2
+Myrtle-Willoughby Aves,[{'NAME': 'G'}],1
+21st St,[{'NAME': 'G'}],1
+Long Island City - Court Sq,[{'NAME': 'G'}],1
+Metropolitan Ave,[{'NAME': 'G'}],1
+Greenpoint Ave,[{'NAME': 'G'}],1
+Nassau Ave,[{'NAME': 'G'}],1
+Bedford - Nostrand Aves,[{'NAME': 'G'}],1
+Broadway,"[{'NAME': 'G'}, {'NAME': 'N-W'}]",2
+Classon Ave,[{'NAME': 'G'}],1
+8th Ave,"[{'NAME': 'L'}, {'NAME': 'N'}]",2
+6th Ave,[{'NAME': 'L'}],1
+3rd Ave,[{'NAME': 'L'}],1
+Morgan Ave,[{'NAME': 'L'}],1
+Jefferson St,[{'NAME': 'L'}],1
+Bushwick - Aberdeen,[{'NAME': 'L'}],1
+E 105th St,[{'NAME': 'L'}],1
+Canarsie - Rockaway Pkwy,[{'NAME': 'L'}],1
+Livonia Ave,[{'NAME': 'L'}],1
+Myrtle - Wyckoff Aves,"[{'NAME': 'L'}, {'NAME': 'M'}]",2
+Halsey St,"[{'NAME': 'L'}, {'NAME': 'J'}]",2
+Atlantic Ave,[{'NAME': 'L'}],1
+Montrose Ave,[{'NAME': 'L'}],1
+Bedford Ave,[{'NAME': 'L'}],1
+Graham Ave,[{'NAME': 'L'}],1
+1st Ave,[{'NAME': 'L'}],1
+Wilson Ave,[{'NAME': 'L'}],1
+Sutter Ave,[{'NAME': 'L'}],1
+Lorimer St,"[{'NAME': 'L'}, {'NAME': 'J-M'}]",2
+Kosciuszko St,[{'NAME': 'J'}],1
+Cypress Hills,[{'NAME': 'J'}],1
+Alabama Ave,[{'NAME': 'J'}],1
+Cleveland St,[{'NAME': 'J'}],1
+85th St - Forest Pky,[{'NAME': 'J'}],1
+Hewes St,[{'NAME': 'J-M'}],1
+Gravesend - 86th St,[{'NAME': 'N'}],1
+New Utrecht Ave,[{'NAME': 'N'}],1
+30th Ave,[{'NAME': 'N-W'}],1
+Astoria - Ditmars Blvd,[{'NAME': 'N-W'}],1
+Astoria Blvd,[{'NAME': 'N-W'}],1
+39th Ave,[{'NAME': 'N-W'}],1
+36th Ave,[{'NAME': 'N-W'}],1
+8th St - NYU,[{'NAME': 'N-Q-R-W'}],1
+Prince St,[{'NAME': 'N-Q-R-W'}],1
+49th St,[{'NAME': 'N-Q-R-W'}],1
+Franklin Ave - Fulton St,[{'NAME': 'S'}],1
+Botanic Garden,[{'NAME': 'S'}],1
+Park Pl,"[{'NAME': 'S'}, {'NAME': '2-3'}]",2
+Cortelyou Rd,[{'NAME': 'Q'}],1
+Neck Rd,[{'NAME': 'Q'}],1
+Ave H,[{'NAME': 'Q'}],1
+Ave J,[{'NAME': 'Q'}],1
+Ave M,[{'NAME': 'Q'}],1
+Parkside Ave,[{'NAME': 'Q'}],1
+Ocean Pkwy,[{'NAME': 'Q'}],1
+Queensboro Plz,[{'NAME': '7-7 Express-N-W'}],1
+Carroll St,[{'NAME': 'F-G'}],1
+Smith - 9th Sts,[{'NAME': 'F-G'}],1
+7th Ave,"[{'NAME': 'F-G'}, {'NAME': 'B-Q'}, {'NAME': 'B-D-E'}]",3
+15th St - Prospect Park,[{'NAME': 'F-G'}],1
+Sheepshead Bay,[{'NAME': 'B-Q'}],1
+Brighton Beach,[{'NAME': 'B-Q'}],1
+Wall St,"[{'NAME': '4-5'}, {'NAME': '2-3'}]",2
+Bowling Green,[{'NAME': '4-5'}],1
+138th St - Grand Concourse,[{'NAME': '4-5'}],1
+Borough Hall,"[{'NAME': '4-5'}, {'NAME': '2-3'}]",2
+Eastchester - Dyre Ave,[{'NAME': '5'}],1
+Baychester Ave,[{'NAME': '5'}],1
+Morris Park,[{'NAME': '5'}],1
+14th St,"[{'NAME': '1-2-3'}, {'NAME': 'A-C-E'}, {'NAME': 'F-M'}]",3
+34th St - Penn Station,"[{'NAME': '1-2-3'}, {'NAME': 'A-C-E'}]",2
+Clark St,[{'NAME': '2-3'}],1
+Hoyt St,[{'NAME': '2-3'}],1
+Central Park North (110th St),[{'NAME': '2-3'}],1
+Harlem - 148 St,[{'NAME': '3'}],1
+40th St,[{'NAME': '7'}],1
+90th St - Elmhurst Av,[{'NAME': '7'}],1
+82nd St - Jackson Hts,[{'NAME': '7'}],1
+52nd St,[{'NAME': '7'}],1
+74th St - Broadway,[{'NAME': '7'}],1
+69th St,[{'NAME': '7'}],1
+103rd St - Corona Plaza,[{'NAME': '7'}],1
+Lexington Ave - 63rd St,[{'NAME': 'F-Q'}],1
+W 8th St - NY Aquarium,[{'NAME': 'F-Q'}],1
+Canal St - Holland Tunnel,[{'NAME': 'A-C-E'}],1
+42nd St - Port Authority Bus Term,[{'NAME': 'A-C-E'}],1
+W 4th St - Washington Sq (Upper),[{'NAME': 'A-C-E'}],1
+Forest Ave,[{'NAME': 'M'}],1
+Middle Village - Metropolitan Ave,[{'NAME': 'M'}],1
+Fresh Pond Rd,[{'NAME': 'M'}],1
+Knickerbocker Ave,[{'NAME': 'M'}],1
+Central Ave,[{'NAME': 'M'}],1
+Seneca Ave,[{'NAME': 'M'}],1
+Jackson Hts - Roosevelt Av,[{'NAME': 'E-F-M-R'}],1
+Forest Hills - 71st Av,[{'NAME': 'E-F-M-R'}],1
+Wakefield - 241st St,[{'NAME': '2'}],1
+Bay Ridge - 95th St,[{'NAME': 'R'}],1
+Bay Ridge Ave,[{'NAME': 'R'}],1
+5th Ave - 59th St,[{'NAME': 'N-R-W'}],1
+Hoyt - Schermerhorn Sts,[{'NAME': 'A-C-G'}],1
+Jay St - MetroTech,"[{'NAME': 'A-C-F'}, {'NAME': 'N-R'}]",2
+53rd St,[{'NAME': 'N-R'}],1
+45th St,[{'NAME': 'N-R'}],1
+59th St,[{'NAME': 'N-R'}],1
+Court St,[{'NAME': 'N-R'}],1
+Whitehall St,[{'NAME': 'R-W'}],1
+City Hall,[{'NAME': 'R-W'}],1
