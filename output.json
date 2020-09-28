@@ -1,0 +1,332 @@
+{
+    "0":{
+        "Train_Name":"A-C-S",
+        "Station":"[{'NAME': 'Euclid Ave'}]",
+        "count":1
+    },
+    "1":{
+        "Train_Name":"D-F-N-Q",
+        "Station":"[{'NAME': 'Coney Island - Stillwell Av'}]",
+        "count":1
+    },
+    "2":{
+        "Train_Name":"4-6-6 Express",
+        "Station":"[{'NAME': 'Spring St'}, {'NAME': '116th St'}, {'NAME': '103rd St'}, {'NAME': 'Bleecker St'}, {'NAME': '110th St'}, {'NAME': '28th St'}, {'NAME': '68th St - Hunter College'}, {'NAME': '23rd St'}, {'NAME': '51st St'}, {'NAME': '77th St'}, {'NAME': '96th St'}, {'NAME': '33rd St'}, {'NAME': 'Canal St'}, {'NAME': 'Astor Pl'}]",
+        "count":14
+    },
+    "3":{
+        "Train_Name":"1-2",
+        "Station":"[{'NAME': 'Franklin St'}, {'NAME': '18th St'}, {'NAME': '28th St'}, {'NAME': 'Christopher St - Sheridan Sq'}, {'NAME': '79th St'}, {'NAME': 'Houston St'}, {'NAME': '23rd St'}, {'NAME': '59th St - Columbus Circle'}, {'NAME': 'Canal St'}, {'NAME': '66th St - Lincoln Ctr'}, {'NAME': '86th St'}, {'NAME': '50th St'}]",
+        "count":12
+    },
+    "4":{
+        "Train_Name":"2-3-4",
+        "Station":"[{'NAME': 'Eastern Pkwy - Bklyn Museum'}, {'NAME': 'Grand Army Plaza'}, {'NAME': 'Bergen St'}]",
+        "count":3
+    },
+    "5":{
+        "Train_Name":"3-4",
+        "Station":"[{'NAME': 'Nostrand Ave'}, {'NAME': 'Sutter Ave - Rutland Road'}, {'NAME': 'Saratoga Ave'}, {'NAME': 'Rockaway Ave'}, {'NAME': 'Junius St'}, {'NAME': 'New Lots Ave'}, {'NAME': 'Kingston Ave'}, {'NAME': 'Crown Hts - Utica Ave'}, {'NAME': 'Van Siclen Ave'}, {'NAME': 'Pennsylvania Ave'}]",
+        "count":10
+    },
+    "6":{
+        "Train_Name":"1",
+        "Station":"[{'NAME': 'Cortlandt St'}, {'NAME': 'Rector St'}, {'NAME': 'South Ferry'}, {'NAME': '125th St'}, {'NAME': 'Dyckman St'}, {'NAME': 'Van Cortlandt Park - 242nd St'}, {'NAME': '207th St'}, {'NAME': '215th St'}, {'NAME': '231st St'}, {'NAME': 'Marble Hill - 225th St'}, {'NAME': '191st St'}, {'NAME': '181st St'}, {'NAME': '168th St'}, {'NAME': '137th St - City College'}, {'NAME': '116th St - Columbia University'}, {'NAME': 'Cathedral Pkwy (110th St)'}, {'NAME': '103rd St'}, {'NAME': '157th St'}, {'NAME': '145th St'}, {'NAME': '238th St'}]",
+        "count":20
+    },
+    "7":{
+        "Train_Name":"A-B-C",
+        "Station":"[{'NAME': '135th St'}, {'NAME': '116th St'}, {'NAME': '86th St'}, {'NAME': '81st St'}, {'NAME': '103rd St'}, {'NAME': '96th St'}, {'NAME': '72nd St'}, {'NAME': 'Cathedral Pkwy (110th St)'}]",
+        "count":8
+    },
+    "8":{
+        "Train_Name":"A-C",
+        "Station":"[{'NAME': 'Lafayette Ave'}, {'NAME': 'High St'}, {'NAME': 'Clinton - Washington Aves'}, {'NAME': 'Franklin Ave'}, {'NAME': '163rd St - Amsterdam Av'}, {'NAME': '155th St'}, {'NAME': 'Broadway Junction'}, {'NAME': 'Liberty Ave'}, {'NAME': 'Chambers St'}, {'NAME': 'Fulton St'}, {'NAME': 'Utica Ave'}, {'NAME': 'Shepherd Ave'}, {'NAME': 'Van Siclen Ave'}, {'NAME': 'Nostrand Ave'}, {'NAME': 'Rockaway Ave'}, {'NAME': '168th St'}, {'NAME': 'Ralph Ave'}, {'NAME': 'Kingston - Throop Aves'}]",
+        "count":18
+    },
+    "9":{
+        "Train_Name":"E-M-R",
+        "Station":"[{'NAME': 'Queens Plz'}, {'NAME': 'Steinway St'}, {'NAME': 'Northern Blvd'}, {'NAME': '46th St'}, {'NAME': 'Woodhaven Blvd - Queens Mall'}, {'NAME': '63rd Dr - Rego Park'}, {'NAME': 'Grand Ave - Newtown'}, {'NAME': '67th Ave'}, {'NAME': 'Elmhurst Ave'}, {'NAME': '36th St'}, {'NAME': '65th St'}]",
+        "count":11
+    },
+    "10":{
+        "Train_Name":"J-M-Z",
+        "Station":"[{'NAME': 'Myrtle Ave'}, {'NAME': 'Marcy Ave'}, {'NAME': 'Delancey St - Essex St'}]",
+        "count":3
+    },
+    "11":{
+        "Train_Name":"J-Z",
+        "Station":"[{'NAME': 'Bowery'}, {'NAME': 'Broad St'}, {'NAME': 'Canal St'}, {'NAME': 'Chambers St'}, {'NAME': 'Fulton St'}, {'NAME': 'Gates Ave'}, {'NAME': '75th St - Eldert Ln'}, {'NAME': 'Crescent St'}, {'NAME': 'Broadway Junction'}, {'NAME': '121st St'}, {'NAME': 'Woodhaven Blvd'}, {'NAME': 'Chauncey St'}, {'NAME': '104th-102nd Sts'}, {'NAME': 'Norwood Ave'}, {'NAME': 'Van Siclen Ave'}]",
+        "count":15
+    },
+    "12":{
+        "Train_Name":"B-D-N-Q-R",
+        "Station":"[{'NAME': 'DeKalb Ave'}]",
+        "count":1
+    },
+    "13":{
+        "Train_Name":"A-S",
+        "Station":"[{'NAME': '80th St'}, {'NAME': '88th St'}, {'NAME': 'Ozone Park - Lefferts Blvd'}, {'NAME': 'Grant Ave'}, {'NAME': 'Rockaway Park - Beach 116 St'}, {'NAME': 'Beach 98th St'}, {'NAME': 'Rockaway Blvd'}, {'NAME': 'Broad Channel'}, {'NAME': '104th St'}, {'NAME': '111th St'}, {'NAME': 'Beach 90th St'}, {'NAME': 'Beach 105th St'}]",
+        "count":12
+    },
+    "14":{
+        "Train_Name":"2-5",
+        "Station":"[{'NAME': 'President St'}, {'NAME': '3rd Ave - 149th St'}, {'NAME': '149th St - Grand Concourse'}, {'NAME': 'E 180th St'}, {'NAME': 'Burke Ave'}, {'NAME': '219th St'}, {'NAME': 'West Farms Sq - E Tremont Av'}, {'NAME': 'Allerton Ave'}, {'NAME': '174th St'}, {'NAME': 'Prospect Ave'}, {'NAME': 'Jackson Ave'}, {'NAME': '225th St'}, {'NAME': 'Sterling St'}, {'NAME': 'Brooklyn College - Flatbush Ave'}, {'NAME': 'Newkirk Ave'}, {'NAME': 'Church Ave'}, {'NAME': 'Beverly Rd'}, {'NAME': '233rd St'}, {'NAME': 'Winthrop St'}, {'NAME': 'Bronx Park East'}, {'NAME': 'Simpson St'}, {'NAME': 'Nereid Ave (238 St)'}, {'NAME': 'Gun Hill Rd'}, {'NAME': 'Pelham Pkwy'}, {'NAME': 'Intervale Ave'}, {'NAME': 'Freeman St'}]",
+        "count":26
+    },
+    "15":{
+        "Train_Name":"B-D",
+        "Station":"[{'NAME': 'Grand St'}, {'NAME': '161st St - Yankee Stadium'}, {'NAME': '155th St'}, {'NAME': 'Bedford Park Blvd'}, {'NAME': 'Fordham Rd'}, {'NAME': '170th St'}, {'NAME': 'Tremont Ave'}, {'NAME': 'Kingsbridge Rd'}, {'NAME': '167th St'}, {'NAME': '174th-175th Sts'}, {'NAME': '182nd-183rd Sts'}]",
+        "count":11
+    },
+    "16":{
+        "Train_Name":"7-7 Express",
+        "Station":"[{'NAME': '34th St - Hudson Yards'}, {'NAME': '5th Ave - Bryant Pk'}, {'NAME': 'Grand Central - 42nd St'}, {'NAME': 'Times Sq - 42nd St'}, {'NAME': 'Vernon Blvd - Jackson Ave'}, {'NAME': 'Hunters Point Ave'}, {'NAME': 'Court Sq'}, {'NAME': 'Woodside - 61st St'}, {'NAME': 'Flushing - Main St'}, {'NAME': 'Junction Blvd'}, {'NAME': 'Mets - Willets Point'}]",
+        "count":11
+    },
+    "17":{
+        "Train_Name":"6-6 Express",
+        "Station":"[{'NAME': 'Parkchester'}, {'NAME': 'Westchester Sq - E Tremont Ave'}, {'NAME': 'Pelham Bay Park'}, {'NAME': 'Middletown Rd'}, {'NAME': 'Hunts Point Ave'}, {'NAME': 'Zerega Ave'}, {'NAME': 'Castle Hill Ave'}, {'NAME': '3rd Ave - 138th St'}, {'NAME': 'Buhre Ave'}]",
+        "count":9
+    },
+    "18":{
+        "Train_Name":"4-5-6-6 Express",
+        "Station":"[{'NAME': '125th St'}, {'NAME': '86th St'}, {'NAME': 'Union Sq - 14th St'}, {'NAME': 'Lexington Ave - 59th St'}, {'NAME': 'Grand Central - 42nd St'}, {'NAME': 'Brooklyn Bridge - City Hall'}]",
+        "count":6
+    },
+    "19":{
+        "Train_Name":"D-N-R",
+        "Station":"[{'NAME': '25th St'}, {'NAME': '36th St'}, {'NAME': '4th Av - 9th St'}, {'NAME': 'Prospect Ave'}, {'NAME': 'Union St'}]",
+        "count":5
+    },
+    "20":{
+        "Train_Name":"2-3-4-5",
+        "Station":"[{'NAME': 'Nevins St'}, {'NAME': \"Atlantic Av - Barclay's Center\"}, {'NAME': 'Franklin Ave'}]",
+        "count":3
+    },
+    "21":{
+        "Train_Name":"4",
+        "Station":"[{'NAME': 'Woodlawn'}, {'NAME': 'Fordham Rd'}, {'NAME': '183rd St'}, {'NAME': '167th St'}, {'NAME': 'Mosholu Pkwy'}, {'NAME': '170th St'}, {'NAME': 'Mt Eden Ave'}, {'NAME': 'Bedford Park Blvd - Lehman College'}, {'NAME': 'Kingsbridge Rd'}, {'NAME': 'Burnside Ave'}, {'NAME': '176th St'}, {'NAME': '161st St - Yankee Stadium'}, {'NAME': '149th St - Grand Concourse'}]",
+        "count":13
+    },
+    "22":{
+        "Train_Name":"6",
+        "Station":"[{'NAME': 'Brook Ave'}, {'NAME': \"E 143rd St - St Mary's St\"}, {'NAME': 'Cypress Ave'}, {'NAME': 'Longwood Ave'}, {'NAME': 'Elder Ave'}, {'NAME': 'St Lawrence Ave'}, {'NAME': 'Whitlock Ave'}, {'NAME': 'Morrison Av - Soundview'}, {'NAME': 'E 149th St'}]",
+        "count":9
+    },
+    "23":{
+        "Train_Name":"A",
+        "Station":"[{'NAME': 'Dyckman St'}, {'NAME': '190th St'}, {'NAME': '181st St'}, {'NAME': 'Inwood - 207th St'}, {'NAME': 'Aqueduct - North Conduit Av'}, {'NAME': 'Howard Beach - JFK Airport'}, {'NAME': 'Beach 67th St'}, {'NAME': 'Beach 25th St'}, {'NAME': 'Beach 36th St'}, {'NAME': 'Beach 60th St'}, {'NAME': 'Beach 44th St'}, {'NAME': '175th St'}, {'NAME': 'Aqueduct Racetrack'}, {'NAME': 'Far Rockaway - Mott Ave'}]",
+        "count":14
+    },
+    "24":{
+        "Train_Name":"B-D-F-M",
+        "Station":"[{'NAME': 'Broadway - Lafayette St'}, {'NAME': 'Herald Sq - 34th St'}, {'NAME': '47th-50th Sts - Rockefeller Ctr'}, {'NAME': 'W 4th St - Washington Sq (Lower)'}, {'NAME': '42nd St - Bryant Pk'}]",
+        "count":5
+    },
+    "25":{
+        "Train_Name":"B-Q-S",
+        "Station":"[{'NAME': 'Prospect Park'}]",
+        "count":1
+    },
+    "26":{
+        "Train_Name":"D",
+        "Station":"[{'NAME': 'Ft Hamilton Pkwy'}, {'NAME': '9th Ave'}, {'NAME': 'Bay 50th St'}, {'NAME': '62nd St'}, {'NAME': '18th Ave'}, {'NAME': '20th Ave'}, {'NAME': '71st St'}, {'NAME': '79th St'}, {'NAME': 'Bay Pky'}, {'NAME': '25th Ave'}, {'NAME': '50th St'}, {'NAME': 'Norwood - 205th St'}, {'NAME': '55th St'}]",
+        "count":13
+    },
+    "27":{
+        "Train_Name":"E",
+        "Station":"[{'NAME': 'World Trade Center'}, {'NAME': 'Jamaica - Van Wyck'}]",
+        "count":2
+    },
+    "28":{
+        "Train_Name":"E-F",
+        "Station":"[{'NAME': 'Briarwood - Van Wyck Blvd'}, {'NAME': '75th Ave'}, {'NAME': 'Kew Gardens - Union Tpke'}]",
+        "count":3
+    },
+    "29":{
+        "Train_Name":"E-J-Z",
+        "Station":"[{'NAME': 'Jamaica Ctr - Parsons \/ Archer'}, {'NAME': 'Sutphin Blvd - Archer Av'}]",
+        "count":2
+    },
+    "30":{
+        "Train_Name":"E-M",
+        "Station":"[{'NAME': 'Lexington Ave - 53rd St'}, {'NAME': '5th Ave - 53rd St'}, {'NAME': 'Court Sq - 23rd St'}]",
+        "count":3
+    },
+    "31":{
+        "Train_Name":"F",
+        "Station":"[{'NAME': 'York St'}, {'NAME': 'Lower East Side - 2nd Ave'}, {'NAME': 'Delancey St - Essex St'}, {'NAME': 'East Broadway'}, {'NAME': 'Roosevelt Island - Main St'}, {'NAME': '57th St'}, {'NAME': '21st St - Queensbridge'}, {'NAME': 'Ave I'}, {'NAME': 'Bay Pky'}, {'NAME': 'Ave N'}, {'NAME': 'Ave P'}, {'NAME': 'Ave X'}, {'NAME': 'Neptune Ave'}, {'NAME': 'Kings Hwy'}, {'NAME': 'Ave U'}, {'NAME': '18th Ave'}, {'NAME': 'Jamaica - 179th St'}, {'NAME': 'Sutphin Blvd'}, {'NAME': '169th St'}, {'NAME': 'Parsons Blvd'}, {'NAME': 'Ditmas Ave'}]",
+        "count":21
+    },
+    "32":{
+        "Train_Name":"G",
+        "Station":"[{'NAME': 'Flushing Ave'}, {'NAME': 'Myrtle-Willoughby Aves'}, {'NAME': '21st St'}, {'NAME': 'Long Island City - Court Sq'}, {'NAME': 'Metropolitan Ave'}, {'NAME': 'Greenpoint Ave'}, {'NAME': 'Nassau Ave'}, {'NAME': 'Clinton - Washington Aves'}, {'NAME': 'Fulton St'}, {'NAME': 'Bedford - Nostrand Aves'}, {'NAME': 'Broadway'}, {'NAME': 'Classon Ave'}]",
+        "count":12
+    },
+    "33":{
+        "Train_Name":"L",
+        "Station":"[{'NAME': '8th Ave'}, {'NAME': '6th Ave'}, {'NAME': 'Union Sq - 14th St'}, {'NAME': '3rd Ave'}, {'NAME': 'Morgan Ave'}, {'NAME': 'Jefferson St'}, {'NAME': 'Broadway Junction'}, {'NAME': 'Bushwick - Aberdeen'}, {'NAME': 'DeKalb Ave'}, {'NAME': 'New Lots Ave'}, {'NAME': 'E 105th St'}, {'NAME': 'Canarsie - Rockaway Pkwy'}, {'NAME': 'Livonia Ave'}, {'NAME': 'Myrtle - Wyckoff Aves'}, {'NAME': 'Halsey St'}, {'NAME': 'Atlantic Ave'}, {'NAME': 'Montrose Ave'}, {'NAME': 'Bedford Ave'}, {'NAME': 'Graham Ave'}, {'NAME': 'Grand St'}, {'NAME': '1st Ave'}, {'NAME': 'Wilson Ave'}, {'NAME': 'Sutter Ave'}, {'NAME': 'Lorimer St'}]",
+        "count":24
+    },
+    "34":{
+        "Train_Name":"J",
+        "Station":"[{'NAME': 'Kosciuszko St'}, {'NAME': 'Cypress Hills'}, {'NAME': 'Alabama Ave'}, {'NAME': 'Cleveland St'}, {'NAME': '111th St'}, {'NAME': '85th St - Forest Pky'}, {'NAME': 'Halsey St'}]",
+        "count":7
+    },
+    "35":{
+        "Train_Name":"J-M",
+        "Station":"[{'NAME': 'Flushing Ave'}, {'NAME': 'Hewes St'}, {'NAME': 'Lorimer St'}]",
+        "count":3
+    },
+    "36":{
+        "Train_Name":"N",
+        "Station":"[{'NAME': 'Bay Pky'}, {'NAME': 'Gravesend - 86th St'}, {'NAME': 'Kings Hwy'}, {'NAME': 'Ave U'}, {'NAME': 'New Utrecht Ave'}, {'NAME': '18th Ave'}, {'NAME': '20th Ave'}, {'NAME': 'Ft Hamilton Pkwy'}, {'NAME': '8th Ave'}]",
+        "count":9
+    },
+    "37":{
+        "Train_Name":"N-W",
+        "Station":"[{'NAME': '30th Ave'}, {'NAME': 'Astoria - Ditmars Blvd'}, {'NAME': 'Astoria Blvd'}, {'NAME': '39th Ave'}, {'NAME': 'Broadway'}, {'NAME': '36th Ave'}]",
+        "count":6
+    },
+    "38":{
+        "Train_Name":"N-Q-R-W",
+        "Station":"[{'NAME': '8th St - NYU'}, {'NAME': 'Prince St'}, {'NAME': '23rd St'}, {'NAME': 'Union Sq - 14th St'}, {'NAME': '57th St'}, {'NAME': '49th St'}, {'NAME': 'Herald Sq - 34th St'}, {'NAME': '28th St'}, {'NAME': 'Times Sq - 42nd St'}]",
+        "count":9
+    },
+    "39":{
+        "Train_Name":"S",
+        "Station":"[{'NAME': 'Franklin Ave - Fulton St'}, {'NAME': 'Botanic Garden'}, {'NAME': 'Times Sq - 42nd St'}, {'NAME': 'Park Pl'}, {'NAME': 'Grand Central - 42nd St'}]",
+        "count":5
+    },
+    "40":{
+        "Train_Name":"Q",
+        "Station":"[{'NAME': '96th St'}, {'NAME': '86th St'}, {'NAME': '72nd St'}, {'NAME': 'Cortelyou Rd'}, {'NAME': 'Neck Rd'}, {'NAME': 'Ave H'}, {'NAME': 'Ave J'}, {'NAME': 'Ave M'}, {'NAME': 'Ave U'}, {'NAME': 'Parkside Ave'}, {'NAME': 'Beverly Rd'}, {'NAME': 'Ocean Pkwy'}]",
+        "count":12
+    },
+    "41":{
+        "Train_Name":"7-7 Express-N-W",
+        "Station":"[{'NAME': 'Queensboro Plz'}]",
+        "count":1
+    },
+    "42":{
+        "Train_Name":"F-G",
+        "Station":"[{'NAME': 'Carroll St'}, {'NAME': 'Bergen St'}, {'NAME': 'Smith - 9th Sts'}, {'NAME': '4th Av - 9th St'}, {'NAME': 'Church Ave'}, {'NAME': 'Ft Hamilton Pkwy'}, {'NAME': '7th Ave'}, {'NAME': '15th St - Prospect Park'}]",
+        "count":8
+    },
+    "43":{
+        "Train_Name":"B-Q",
+        "Station":"[{'NAME': 'Kings Hwy'}, {'NAME': 'Sheepshead Bay'}, {'NAME': 'Brighton Beach'}, {'NAME': \"Atlantic Av - Barclay's Center\"}, {'NAME': '7th Ave'}, {'NAME': 'Newkirk Ave'}, {'NAME': 'Church Ave'}]",
+        "count":7
+    },
+    "44":{
+        "Train_Name":"D-N-Q-R",
+        "Station":"[{'NAME': \"Atlantic Av - Barclay's Center\"}]",
+        "count":1
+    },
+    "45":{
+        "Train_Name":"4-5",
+        "Station":"[{'NAME': 'Fulton St'}, {'NAME': 'Wall St'}, {'NAME': 'Bowling Green'}, {'NAME': '138th St - Grand Concourse'}, {'NAME': 'Borough Hall'}]",
+        "count":5
+    },
+    "46":{
+        "Train_Name":"5",
+        "Station":"[{'NAME': 'Gun Hill Rd'}, {'NAME': 'Eastchester - Dyre Ave'}, {'NAME': 'Baychester Ave'}, {'NAME': 'Pelham Pkwy'}, {'NAME': 'Morris Park'}]",
+        "count":5
+    },
+    "47":{
+        "Train_Name":"1-2-3",
+        "Station":"[{'NAME': '14th St'}, {'NAME': 'Chambers St'}, {'NAME': 'Times Sq - 42nd St'}, {'NAME': '34th St - Penn Station'}, {'NAME': '72nd St'}, {'NAME': '96th St'}]",
+        "count":6
+    },
+    "48":{
+        "Train_Name":"2-3",
+        "Station":"[{'NAME': 'Clark St'}, {'NAME': 'Wall St'}, {'NAME': 'Borough Hall'}, {'NAME': 'Hoyt St'}, {'NAME': 'Park Pl'}, {'NAME': 'Fulton St'}, {'NAME': '116th St'}, {'NAME': '135th St'}, {'NAME': '125th St'}, {'NAME': 'Central Park North (110th St)'}]",
+        "count":10
+    },
+    "49":{
+        "Train_Name":"3",
+        "Station":"[{'NAME': 'Harlem - 148 St'}, {'NAME': '145th St'}]",
+        "count":2
+    },
+    "50":{
+        "Train_Name":"7",
+        "Station":"[{'NAME': '40th St'}, {'NAME': '33rd St'}, {'NAME': '90th St - Elmhurst Av'}, {'NAME': '82nd St - Jackson Hts'}, {'NAME': '46th St'}, {'NAME': '52nd St'}, {'NAME': '74th St - Broadway'}, {'NAME': '69th St'}, {'NAME': '111th St'}, {'NAME': '103rd St - Corona Plaza'}]",
+        "count":10
+    },
+    "51":{
+        "Train_Name":"F-Q",
+        "Station":"[{'NAME': 'Lexington Ave - 63rd St'}, {'NAME': 'W 8th St - NY Aquarium'}]",
+        "count":2
+    },
+    "52":{
+        "Train_Name":"A-C-E",
+        "Station":"[{'NAME': '14th St'}, {'NAME': '34th St - Penn Station'}, {'NAME': '23rd St'}, {'NAME': 'Canal St - Holland Tunnel'}, {'NAME': 'Spring St'}, {'NAME': '42nd St - Port Authority Bus Term'}, {'NAME': '50th St'}, {'NAME': 'W 4th St - Washington Sq (Upper)'}]",
+        "count":8
+    },
+    "53":{
+        "Train_Name":"M",
+        "Station":"[{'NAME': 'Forest Ave'}, {'NAME': 'Middle Village - Metropolitan Ave'}, {'NAME': 'Fresh Pond Rd'}, {'NAME': 'Knickerbocker Ave'}, {'NAME': 'Central Ave'}, {'NAME': 'Seneca Ave'}, {'NAME': 'Myrtle - Wyckoff Aves'}]",
+        "count":7
+    },
+    "54":{
+        "Train_Name":"E-F-M-R",
+        "Station":"[{'NAME': 'Jackson Hts - Roosevelt Av'}, {'NAME': 'Forest Hills - 71st Av'}]",
+        "count":2
+    },
+    "55":{
+        "Train_Name":"2",
+        "Station":"[{'NAME': 'Wakefield - 241st St'}]",
+        "count":1
+    },
+    "56":{
+        "Train_Name":"A-B-C-D",
+        "Station":"[{'NAME': '125th St'}, {'NAME': '59th St - Columbus Circle'}, {'NAME': '145th St'}]",
+        "count":3
+    },
+    "57":{
+        "Train_Name":"R",
+        "Station":"[{'NAME': '86th St'}, {'NAME': 'Bay Ridge - 95th St'}, {'NAME': 'Bay Ridge Ave'}, {'NAME': '77th St'}]",
+        "count":4
+    },
+    "58":{
+        "Train_Name":"B-D-E",
+        "Station":"[{'NAME': '7th Ave'}]",
+        "count":1
+    },
+    "59":{
+        "Train_Name":"N-R-W",
+        "Station":"[{'NAME': 'Lexington Ave - 59th St'}, {'NAME': '5th Ave - 59th St'}]",
+        "count":2
+    },
+    "60":{
+        "Train_Name":"F-M",
+        "Station":"[{'NAME': '14th St'}, {'NAME': '23rd St'}]",
+        "count":2
+    },
+    "61":{
+        "Train_Name":"A-C-G",
+        "Station":"[{'NAME': 'Hoyt - Schermerhorn Sts'}]",
+        "count":1
+    },
+    "62":{
+        "Train_Name":"A-C-F",
+        "Station":"[{'NAME': 'Jay St - MetroTech'}]",
+        "count":1
+    },
+    "63":{
+        "Train_Name":"N-R",
+        "Station":"[{'NAME': '53rd St'}, {'NAME': '45th St'}, {'NAME': '59th St'}, {'NAME': 'Court St'}, {'NAME': 'Jay St - MetroTech'}]",
+        "count":5
+    },
+    "64":{
+        "Train_Name":"R-W",
+        "Station":"[{'NAME': 'Cortlandt St'}, {'NAME': 'Rector St'}, {'NAME': 'Whitehall St'}, {'NAME': 'Canal St'}, {'NAME': 'City Hall'}]",
+        "count":5
+    },
+    "65":{
+        "Train_Name":"N-Q",
+        "Station":"[{'NAME': 'Canal St'}]",
+        "count":1
+    }
+}
