@@ -1,4 +1,2 @@
-{name: "DS101", subjects: ["coding", "data_structure", "algorithm"], duration: 1}
-{name: "DS102", subjects: ["coding", "data_structure", "algorithm","system_design"], duration: 2}
 {name: "DS105", subjects: ["ml", "ai", "algorithm","system_design"], duration: 2}
 {name: "DS106", subjects: ["ai", "project_assigment", "industry_automation","system_design","viva"], duration: 3}
