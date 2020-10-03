@@ -1,0 +1,3 @@
+http://dummy.restapiexample.com/api/v1/employees
+https://api.github.com/users/hadley/orgs
+https://api.github.com/repos/hadley/ggplot2/commits
